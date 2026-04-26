@@ -7,7 +7,7 @@ import './App.css';
 function Landing() {
   const navigate = useNavigate();
   return (
-    <div className="landing">
+    <div className="landing background-image">
       <h1>Paradise Nursery</h1>
       <p>
         Bring life into your home with our hand-picked collection of beautiful

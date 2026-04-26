@@ -1,28 +1,29 @@
 function AboutUs() {
   return (
-    <div className="about-page">
+    <div className="about-us-container">
       <h1>About Paradise Nursery</h1>
       <p>
-        Founded in 2010, Paradise Nursery has been bringing the beauty of nature
-        into homes and offices across the country. We believe that every space
-        deserves a touch of greenery, and that plants have the power to transform
-        any environment into a more peaceful, vibrant place.
+        Welcome to Paradise Nursery, your one-stop destination for beautiful,
+        healthy houseplants. Founded in 2010, we have been bringing the beauty
+        of nature into homes and offices across the country.
       </p>
       <p>
-        Our team of passionate horticulturists carefully selects each plant in
-        our collection, ensuring that we offer only the healthiest and most
-        beautiful specimens. Whether you're a seasoned plant parent or just
-        starting your green journey, we have something perfect for you.
+        Our mission is simple: to make it easy for everyone to experience the
+        joy of living with plants. We believe that every space deserves a touch
+        of greenery, and that plants have the power to transform any environment
+        into a more peaceful, vibrant place.
       </p>
       <p>
-        We specialize in three categories: succulents for those who prefer
-        low-maintenance beauties, tropical plants for lovers of lush, dramatic
-        foliage, and flowering plants that add color and fragrance to any room.
+        We specialize in three categories of houseplants — succulents for those
+        who prefer low-maintenance beauties, tropical plants for lovers of lush
+        dramatic foliage, and flowering plants that add color and fragrance to
+        any room. Each plant in our collection is hand-picked by our team of
+        passionate horticulturists to ensure the highest quality.
       </p>
       <p>
-        Every plant is shipped with care instructions and a satisfaction
-        guarantee. If your plant doesn't arrive in perfect condition, we'll make
-        it right — no questions asked.
+        Every order ships with detailed care instructions and is backed by our
+        satisfaction guarantee. If your plant doesn't arrive in perfect
+        condition, we'll make it right — no questions asked.
       </p>
     </div>
   );
